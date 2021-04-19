@@ -1,3 +1,5 @@
+This will be an attempt to make this compatible with more modern evemu implimentaitons. 
+
 **** Must have Visual Studio installed to add MySql.data.dll to GAC ****
 1. Run visual studio command prompt as Administrator.
 2. Navigate to evemu_control_pannel folder in the command window.
